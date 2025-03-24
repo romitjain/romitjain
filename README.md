@@ -1,6 +1,6 @@
-## Hi there
+Hi there, about me in 4 points:
 
-- Working with data since 2018
-- Tech I love working with - Python, CUDA C, PyTorch, SQL, Docker, FastAPI
-- Fan of `neovim`, `tmux`, and `kitty` terminal
-- Obsessed with calendars, to-dos, tracking every little thing, and shiny productivity apps
+1. Working with data since 2018 in fast-paced startups (mostly as the founding member of the data team)
+2. Tech I love working with - Python, CUDA, PyTorch, SQL, Triton
+3. Interested in making LLMs go brrr..
+4. My favorite works (which are public) are below
